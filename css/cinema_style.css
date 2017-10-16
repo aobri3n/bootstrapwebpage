@@ -1,4 +1,4 @@
-h1 {
+h1{
 	color:fff;
 	font-family:roboto;
 	font-weight:900;
@@ -9,6 +9,23 @@ h1 {
 	
 	width:100%;
 	
+}
+
+
+
+#signup{
+    display:block;
+    width:100%;
+    margin:0 auto;
+}
+
+.navbar{
+
+    margin-left:auto;
+	margin-right:auto;
+    top: 0px;
+    width: 1115px;
+	display:center;
 }
 
 
